@@ -1,0 +1,44 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+5
+1
+14
+num1,num2,num3
+6
+2
+4
+suma
+14
+num1+num2+num3
+8
+division
+6
+suma/3
+4
+1
+35
+'La suma de los numeros es:',  suma
+4
+1
+43
+'El promedio de los numeros es:',  division
+7
+0
+1
+10
+division=6
+13
+4
+1
+26
+'El numero es mayor que 6'
+13
+4
+1
+26
+'El numero es menor que 6'
+1

@@ -1,0 +1,40 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+32
+'Ingrese los valores de n1 y n2'
+5
+1
+5
+n1,n2
+6
+1
+9
+operacion
+9
+3*(n1+n2)
+4
+1
+30
+'El resultado es: ', operacion
+7
+0
+1
+19
+operacion=3*(n1+n2)
+4
+1
+35
+'El numero no es divisible entre 3'
+13
+4
+1
+32
+'El numero es divisible entre 3'
+13
+1
